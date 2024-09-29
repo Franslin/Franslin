@@ -2,7 +2,7 @@ Hej, jag heter Frans och är en social och positiv person som lägger ett stort 
 
 Min portfolio här kanske inte är den största (ännu), men jag är ganska nöjd med min personliga sida: frans183.se 🦩🌺
 
-Jag har bland annat färdigheter i följande områden och vill såklart bli ännu bättre på dem:
+Jag har bland annat färdigheter i följande områden och vill självklart bli ännu bättre på dem:
 - HTML & CSS
 - Javascript
 - React & Angular
